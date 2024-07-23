@@ -13,8 +13,7 @@
   <img align="center" alt="JS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="WordPress-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="DudaCMS-icon" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Duda_logo.svg/1200px-Duda_logo.svg.png">
-  <img align="center" alt="HubSpot-icon" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/55/HubSpot_Logo.svg">
+  <img align="center" alt="HubSpot-icon" height="30" width="40" src="https://legal.hubspot.com/hubfs/guidelines_the-sprocket.svg">
 </div>
   
 ##
