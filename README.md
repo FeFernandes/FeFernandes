@@ -13,12 +13,8 @@
   <img align="center" alt="JS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="WordPress-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="DudaCMS-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duda/duda-original.svg">
-  <img align="center" alt="HubSpot-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hubspot/hubspot-original.svg">
+  <img align="center" alt="DudaCMS-icon" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Duda_logo.svg/1200px-Duda_logo.svg.png">
+  <img align="center" alt="HubSpot-icon" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/55/HubSpot_Logo.svg">
 </div>
   
 ##
-<div>
-  <a href="mailto:ghiberti85@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernanda-alves-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
