@@ -4,7 +4,7 @@
 
 <br />
 
-<h1 style="color:#22C55E;">Fernanda Alves Fernandes</h1>
+<h1>Fernanda Alves Fernandes</h1>
 
 <p>
   <strong>Desenvolvimento Web · Automação · Integrações</strong>
@@ -99,7 +99,8 @@ Meu foco profissional está em **desenvolvimento de software, aplicações web, 
 
 Projetos desenvolvidos durante a graduação como parte do processo de aprendizado e prática de desenvolvimento de software.
 
-🔹 **[Projeto Django Básico](https://github.com/FeFernandes/Projeto-Django-b-sico)**  
+🔹 **[Projeto Django Básico](https://github.com/FeFernandes/Projeto-Django-b-sico)**
+
 Projeto desenvolvido para praticar conceitos de desenvolvimento web utilizando **Python e Django**.
 
 ---
@@ -124,7 +125,7 @@ Novos projetos serão adicionados conforme minha evolução em **desenvolvimento
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
 <div align="center">
 
