@@ -1,6 +1,6 @@
 a<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=140&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=140&section=header" width="100%" alt="" />
 
 <br />
 
@@ -56,9 +56,9 @@ Meu foco profissional está em **desenvolvimento de software, aplicações web, 
 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/APIs_REST-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs_REST-22C55E?style=for-the-badge" />
 
-  <img src="https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Webhooks-22C55E?style=for-the-badge" />
 
 </p>
 
@@ -76,11 +76,11 @@ Meu foco profissional está em **desenvolvimento de software, aplicações web, 
 
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/CRM-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CRM-22C55E?style=for-the-badge" />
 
-  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-22C55E?style=for-the-badge" />
 
-  <img src="https://img.shields.io/badge/APIs_%26_Integra%C3%A7%C3%B5es-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs_%26_Integra%C3%A7%C3%B5es-22C55E?style=for-the-badge" />
 
 </p>
 
@@ -140,7 +140,7 @@ Novos projetos serão adicionados conforme minha evolução em **desenvolvimento
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=FeFernandes&hide_border=true&background=00000000&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=FeFernandes&hide_border=true&background=00000000&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub Streak" />
 
 </div>
 
@@ -168,4 +168,4 @@ Novos projetos serão adicionados conforme minha evolução em **desenvolvimento
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=footer" width="100%" alt="" />
