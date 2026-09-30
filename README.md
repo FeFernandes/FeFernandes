@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E7D32&height=140&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=140&section=header" width="100%" alt="" />
 
 <br />
 
-<a href="https://github.com/FeFernandes">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=36&duration=2500&pause=1000&color=2E7D32&center=true&vCenter=true&width=650&height=70&lines=Fernanda+Alves+Fernandes" alt="Fernanda Alves Fernandes" />
-</a>
+<h1 style="color:#22C55E;">Fernanda Alves Fernandes</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=500&size=18&duration=3000&pause=800&color=808080&center=true&vCenter=true&width=700&height=45&lines=Desenvolvimento+Web+%C2%B7+Automa%C3%A7%C3%A3o+%C2%B7+Integra%C3%A7%C3%B5es;Solu%C3%A7%C3%B5es+digitais+%C2%B7+APIs+%C2%B7+Processos+automatizados" alt="Desenvolvimento Web, Automação e Integrações" />
+<p>
+  <strong>Desenvolvimento Web · Automação · Integrações</strong>
+</p>
+
+<p>
+  Soluções digitais · APIs · Processos automatizados
+</p>
 
 <br />
 
@@ -16,8 +20,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/FeFernandes">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="mailto:ffernandes7718@gmail.com">
+  <img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -51,8 +55,8 @@ Meu foco profissional está em **desenvolvimento de software, aplicações web, 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs_REST-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Webhooks-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs_REST-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Webhooks-22C55E?style=for-the-badge" />
 </p>
 
 ### Banco de Dados
@@ -65,9 +69,9 @@ Meu foco profissional está em **desenvolvimento de software, aplicações web, 
 
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRM-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APIs_%26_Integra%C3%A7%C3%B5es-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CRM-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs_%26_Integra%C3%A7%C3%B5es-22C55E?style=for-the-badge" />
 </p>
 
 ### CMS & Web
@@ -114,13 +118,13 @@ Novos projetos serão adicionados conforme minha evolução em **desenvolvimento
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=FeFernandes&hide_border=true&background=00000000&stroke=2E7D32&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=FeFernandes&hide_border=true&background=00000000&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 📫 Contato
+### 📫 Contato
 
 <div align="center">
 
@@ -128,8 +132,8 @@ Novos projetos serão adicionados conforme minha evolução em **desenvolvimento
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/FeFernandes">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="mailto:ffernandes7718@gmail.com">
+  <img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -142,4 +146,4 @@ Novos projetos serão adicionados conforme minha evolução em **desenvolvimento
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E7D32&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=footer" width="100%" alt="" />
