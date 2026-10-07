@@ -118,13 +118,19 @@ Meu foco profissional está em **desenvolvimento de software, aplicações web, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeFernandes&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+<img
+  height="165em"
+  src="https://github-readme-stats.vercel.app/api?username=FeFernandes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=22C55E&text_color=C9D1D9&icon_color=22C55E"
+  alt="GitHub Stats"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeFernandes&layout=compact&theme=transparent&hide_border=true" />
+<br />
 
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=FeFernandes&hide_border=true&background=00000000&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub Streak" />
+<img
+  height="165em"
+  src="https://streak-stats.demolab.com?user=FeFernandes&hide_border=true&background=00000000&stroke=30363D&ring=22C55E&fire=22C55E&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=22C55E&sideLabels=C9D1D9&dates=8B949E"
+  alt="GitHub Streak"
+/>
 
 </div>
 
