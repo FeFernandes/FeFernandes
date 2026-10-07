@@ -114,24 +114,6 @@ Meu foco profissional está em **desenvolvimento de software, aplicações web, 
 
 ---
 
-## 📂 Projetos
-
-### 📚 Projetos acadêmicos
-
-Projetos desenvolvidos durante a graduação como parte do processo de aprendizado e prática de desenvolvimento de software.
-
-🔹 **[Projeto Django Básico](https://github.com/FeFernandes/Projeto-Django-b-sico)**
-
-Projeto desenvolvido para praticar conceitos de desenvolvimento web utilizando **Python e Django**.
-
----
-
-### 🚀 Projetos de portfólio
-
-Novos projetos serão adicionados conforme minha evolução em **desenvolvimento web, APIs, integrações, automações e desenvolvimento de software**.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
